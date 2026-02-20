@@ -1,6 +1,6 @@
 package com.flashllm;
 
-import com.flashllm.tokenizer.Generate;
+import com.flashllm.training.Generate;
 import com.flashllm.tokenizer.LRScheduler;
 import io.github.teleportationpyramid.flash.*;
 import com.flashllm.backend.FlashBackend;

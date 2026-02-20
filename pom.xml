@@ -17,7 +17,7 @@
         <maven.compiler.target>22</maven.compiler.target>
         <maven.compiler.release>22</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <flash.version>0.1.5</flash.version>
+        <flash.version>0.1.10</flash.version>
         <re2j.version>1.7</re2j.version>
         <junit.version>5.10.1</junit.version>
     </properties>
